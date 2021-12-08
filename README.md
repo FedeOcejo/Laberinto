@@ -1,7 +1,6 @@
 # Laberinto
 
 Mi dirección de GitHub pa este reositorio es la siguiente: [Github] (https://github.com/FedeOcejo/Laberinto.git)
-https://github.com/FedeOcejo/Laberinto.git
 
 He creado un laberinto, incluyedo bucles y funciones
 
